@@ -1,8 +1,8 @@
-# ColumbiaAerial
+# 2D to 3D aerial sattelite imagery converter
 
 ## Project Overview
 
-ColumbiaAerial is a project aimed at fetching satellite images and their corresponding elevation data to predict heightmaps using a Convolutional Neural Network (CNN). The heightmaps are then visualized by overlaying them on the original satellite images.
+This is a project aimed at fetching satellite images and their corresponding elevation data to predict heightmaps using a Convolutional Neural Network (CNN). The heightmaps are then visualized by overlaying them on the original satellite images.
 
 ## Features
 
@@ -26,8 +26,8 @@ ColumbiaAerial is a project aimed at fetching satellite images and their corresp
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/notrealzapa/ColumbiaAerial.git
-    cd ColumbiaAerial
+    git clone https://github.com/arthurbaek/urban-modeling-unet.git
+    cd urban-modeling-unet
     ```
 
 2. Install the required Python packages:
@@ -47,7 +47,7 @@ ColumbiaAerial is a project aimed at fetching satellite images and their corresp
 2. Add the remote repository:
 
     ```bash
-    git remote add origin https://github.com/notrealzapa/ColumbiaAerial.git
+    git remote add origin https://github.com/arthurbaek/urban-modeling-unet.git
     ```
 
 3. Run the script to fetch images, train the model, and save the combined images:
@@ -84,8 +84,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact the project maintainer at zyb2003@columbia.edu or zhumazhanbalapanov@gmail.com. 
+For any inquiries, please contact the project maintainer at ajb2371@columbia.edu or arthurbaek08@gmail.com. 
 
 ## Thanks to...
 
-Solal, Arthur and Anay contributed immensely to the project, thanks you very much guys! ajb2371@columbia.edu, sdp2170@columbia.edu, ac5683@columbia.edu
+Solal, Zhuma and Anay contributed immensely to the project, thanks you very much guys! zyb2003@columbia.edu, sdp2170@columbia.edu, ac5683@columbia.edu
